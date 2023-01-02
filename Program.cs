@@ -4,7 +4,8 @@
     {
         public static void Main(string[] args) 
         {
-            Console.WriteLine("Welcome to Line comparison competation program");
+            //Console.WriteLine("Welcome to Line comparison competation program");
+            Linelength.length();
         }
     }
 }
