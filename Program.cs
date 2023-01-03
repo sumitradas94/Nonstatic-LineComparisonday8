@@ -5,8 +5,8 @@
         public static void Main(string[] args) 
         {
             Console.WriteLine("Welcome to Line comparison competation program");
-            //Linelenth.lenth();
-            TwilineLength.Twoline();
+            TwilineLength Twiline=new TwilineLength();
+            Twiline.Twoline();
         }
     }
 }
