@@ -5,7 +5,8 @@
         public static void Main(string[] args) 
         {
             //Console.WriteLine("Welcome to Line comparison competation program");
-            Linelength.length();
+            Linelength object=new Linelength();
+            object.length();
         }
     }
 }
