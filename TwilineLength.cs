@@ -8,7 +8,7 @@ namespace Linecomparisonproblem
 {
     public class TwilineLength
     {
-        public static void Twoline()
+        public  void Twoline()
         {
             double a1=Convert.ToDouble(Console.ReadLine());
             double a2=Convert.ToDouble(Console.ReadLine());
