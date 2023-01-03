@@ -8,7 +8,7 @@ namespace Linecomparisonproblem
 {
     public class EndpointLength
     {
-        public static void Point()
+        public void Point()
         {
             double a1 = Convert.ToDouble(Console.ReadLine());
             double a2 = Convert.ToDouble(Console.ReadLine());
